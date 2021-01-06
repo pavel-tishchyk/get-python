@@ -14,7 +14,7 @@ You will need to download additional components to work with Chrome browser. For
       $ /usr/bin/chromedriver
 - #### Windows
 
-      $ C:\Windows and this file.
+      $ C:\Windows and run this file.
 - #### MacOS
 
       $ usr/local/bin/chromedriver
